@@ -5,3 +5,5 @@
   My name is Nole Stites and I am a recent graduate from 
   Southern Oregon University with a Bachelor's degree in Computer Science.
 </p>
+
+<img src="Nole_Holding_Apple.jpg" width="150px">
