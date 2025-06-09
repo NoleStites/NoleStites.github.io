@@ -6,4 +6,4 @@
   Southern Oregon University with a Bachelor's degree in Computer Science.
 </p>
 
-<img src="Nole_Holding_Apple.jpg" width="150px">
+<img src="Nole_Holding_Apple.jpg" width="150px" filter="invert(50%)">
