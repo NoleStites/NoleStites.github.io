@@ -34,3 +34,16 @@ APRIL 2023 - AUGUST 2024 • ASHLAND, OREGON
 - Install software and hardware and reimage machines in labs and classrooms throughout campus
 
 # Projects
+**Web App: Graph Creator**
+- An educational web app made by myself for students and faculty to easily create node-edge-based graphs and simulate algorithms on those graphs. View the live app [here](http://nolestites.com/GraphCreator)
+- Improved accessibility by using solid and dashed lines instead of color alone to convey information, supporting users with visual impairments
+- Technologies used: HTML, CSS, JavaScript, Git/GitHub
+
+**React Wave Function Collapse**
+- React project [hosted on GitHub](https://github.com/NoleStites/Sudoku_in_React.git) that pipes the output from a Python wave collapse function into a React app
+- Technologies Used: React, Python, HTML, CSS, JavaScript, Git
+
+**Quantum Computing Introductory Lecture** - <i style="color:green;font-weight:bold;">STEM REx</i><br>
+- Partook in funded research to create an introductory lecture for quantum computing
+- Consolidated complex technical material into a slide deck highlighting key points of quantum computing
+- View the GitHub repo [here](https://github.com/NoleStites/STEM-REx.git)
