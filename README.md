@@ -1,8 +1,12 @@
-<h2>About Me</h2>
-<p>
-  My name is Nole Stites and I am a recent graduate from 
-  Southern Oregon University with a Bachelor's degree in Computer Science.
-</p>
+# About Me
+I graduated with a B.S. in Computer Science from [Southern Oregon University](https://sou.edu/) in March 2025.
+
+I have a passion for education and have created a web application called [Graph Creator](https://nolestites.com/GraphCreator) to help students and faculty with their work.
+
+I am research-focused, having always been curious about many things in life. I work to understand why things are the way they are or how to improve them. An instance of this is my funded [Quantum Computing Research](https://github.com/NoleStites/STEM-REx).
+
+I reside in [Houston, TX](https://en.wikipedia.org/wiki/Houston) with my two sweet dogs Kashyyyk and Weasley. 
+
 <img src="Nole_Holding_Apple.jpg" width="150px">
 
 # Education
