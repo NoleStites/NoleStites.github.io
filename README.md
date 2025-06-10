@@ -45,5 +45,19 @@ APRIL 2023 - AUGUST 2024 • ASHLAND, OREGON
 
 **Quantum Computing Introductory Lecture** - <i style="color:green;font-weight:bold;">STEM REx</i><br>
 - Partook in funded research to create an introductory lecture for quantum computing
-- Consolidated complex technical material into a slide deck highlighting key points of quantum computing
-- View the GitHub repo [here](https://github.com/NoleStites/STEM-REx.git)
+- Consolidated complex technical material into a slide deck highlighting key points of quantum computing, all of which is [hosted on GitHub](https://github.com/NoleStites/STEM-REx.git)
+
+**Flow Cytometry Analysis Automation** - <i style="color:green;font-weight:bold;">BD Biosciences</i><br>
+- Develop an automated cell-identification algorithm in Python and Java for use by bioinformatic researchers
+- Collaborating with a teammate, planned project and created documentation using agile development practices
+- Technologies Used: Python, Git, Machine Learning (ML), Agile Methodologies
+
+**Sudoku Wave Function Collapse**
+- Python project [hosted on GitHub](https://github.com/NoleStites/Sudoku-Wave-Collapse-Function) that generates sudoku boards using wave function collapse
+- Use object-oriented design patterns to optimize functionality and efficiency
+
+**Trading Company Datanase**
+- Designed and implemented a relational database in MySQL and accompanying frontend interface in PHP
+- Use stored procedures, functions, and triggers to enforce data integrity and user-friendliness
+
+# Certifications
