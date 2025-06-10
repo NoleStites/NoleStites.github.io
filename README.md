@@ -1,3 +1,4 @@
+# Nole Stites' Resume
 # About Me
 I graduated with a B.S. in Computer Science from [Southern Oregon University](https://sou.edu/) in March 2025.
 
