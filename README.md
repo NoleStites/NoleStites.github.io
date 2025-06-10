@@ -61,3 +61,18 @@ APRIL 2023 - AUGUST 2024 • ASHLAND, OREGON
 - Use stored procedures, functions, and triggers to enforce data integrity and user-friendliness
 
 # Certifications
+**[Wells Fargo Software Engineering Job Simulation](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/nkmk7gJitYs4TBvoA/9Wvq4L2WCFQDyyPp3_nkmk7gJitYs4TBvoA_67e20116704544495eefb81c_1744421822488_completion_certificate.pdf) on Forage - April 2025**
+- Understood relevant requirements for building a system to manage financial portfolios
+- Figured out what data the system needed to keep track of
+- Drafted a visual representation of the data as an entity relationship diagram (ERD)
+- Used the IntelliJ developer application to implement the ERD and published it to [GitHub](https://github.com/NoleStites/wells-fargo-task-2.git)
+- Check out the simulation here: https://www.theforage.com/simulations/wells-fargo/software-engineering-nkq4
+
+# Skills
+- Databases (Data Modeling, ERD Design, MySQL, MongoDB, and RESTful APIs to connect to them)
+- Software Engineering (C++, HTML/CSS, JavaScript, Python, Java/JPA/Spring)
+- Cloud Computing (Google Cloud Platform, Microsoft Azure)
+- Mathematics (calculus, differential equations, discrete structures, linear algebra)
+- Technical Communication
+- Elementary Japanese
+
