@@ -1,4 +1,12 @@
 # Nole Stites' Resume
+✉️ [nole.stites@gmail.com](nole.stites@gmail.com)<br>
+📍 Tomball, TX, USA<br>
+🔗 Website: [nolestites.com](http://nolestites.com)<br>
+🔗 [LinkedIn](https://www.linkedin.com/in/nole-stites/)<br>
+🔗 [GitHub](https://github.com/NoleStites/)<br>
+
+<img src="Nole_Holding_Apple.jpg" width="150px" style="float:right">
+
 # About Me
 I graduated with a B.S. in Computer Science from [Southern Oregon University](https://sou.edu/) in March 2025.
 
@@ -7,8 +15,6 @@ I have a passion for education and have created a web application called [Graph 
 I am research-focused, having always been curious about many things in life. I work to understand why things are the way they are or how to improve them. An instance of this is my funded [Quantum Computing Research](https://github.com/NoleStites/STEM-REx).
 
 I reside in [Houston, TX](https://en.wikipedia.org/wiki/Houston) with my two sweet dogs Kashyyyk and Weasley. 
-
-<img src="Nole_Holding_Apple.jpg" width="150px">
 
 # Education
 **Bachelor of Science in Computer Science** - <i style="color:green;font-weight:bold;">Southern Oregon University</i><br>
