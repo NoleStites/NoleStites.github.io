@@ -1,11 +1,11 @@
 # Nole Stites' Resume
-<img src="Nole_Holding_Apple.jpg" width="300px" style="float:right;border-radius:20">
-
 ✉️ [nole.stites@gmail.com](nole.stites@gmail.com)<br>
 📍 Tomball, TX, USA<br>
 🔗 Website: [nolestites.com](http://nolestites.com)<br>
 🔗 [LinkedIn](https://www.linkedin.com/in/nole-stites/)<br>
 🔗 [GitHub](https://github.com/NoleStites/)<br>
+
+<img src="Nole_Holding_Apple.jpg" width="300px">
 
 # About Me
 I graduated with a B.S. in Computer Science from [Southern Oregon University](https://sou.edu/) in March 2025.
