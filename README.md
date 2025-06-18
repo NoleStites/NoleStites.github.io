@@ -8,15 +8,20 @@
 <img src="Nole_Holding_Apple.jpg" width="300px">
 
 # About Me
+I’m a graduate student pursuing a Master of Library and Information Science at [Louisiana State University](https://www.lsu.edu/) with a strong interest in digital humanities. With a background in computer science, I’m passionate about using technology to support access to cultural heritage, digital scholarship, and interdisciplinary research. I’m especially drawn to opportunities that combine library services, digital tools, and the humanities to enhance how information is preserved, presented, and explored.
+
 I graduated with a B.S. in Computer Science from [Southern Oregon University](https://sou.edu/) in March 2025.
 
-I have a passion for education and have created a web application called [Graph Creator](https://nolestites.com/GraphCreator) to help students and faculty with their work.
+I have a passion for education and have created a web application called [Graph Creator](https://nolestites.com/GraphCreator) to help students with their education and faculty with their work.
 
 I am research-focused, having always been curious about many things in life. I work to understand why things are the way they are or how to improve them. An instance of this is my funded [Quantum Computing Research](https://github.com/NoleStites/STEM-REx).
 
-I reside in [Houston, TX](https://en.wikipedia.org/wiki/Houston) with my two sweet dogs Kashyyyk and Weasley. 
+I reside in [Houston, TX](https://en.wikipedia.org/wiki/Houston) with my two sweet dogs Kashyyyk and Weasley, but am looking to relocate. 
 
 # Education
+**Master of Library and Information Science** - <i style="color:green;font-weight:bold;">Louisiana State University</i><br>
+DATE: JULY 2025 - PRESENT • BATON ROUGE, LOUISIANA
+
 **Bachelor of Science in Computer Science** - <i style="color:green;font-weight:bold;">Southern Oregon University</i><br>
 GRADUATION DATE: MARCH 2025 • ASHLAND, OREGON • 3.9 GPA
 - Member of Computer Science Club
@@ -28,9 +33,9 @@ GRADUATION DATE: MARCH 2025 • ASHLAND, OREGON • 3.9 GPA
 DATE: SEPTEMBER 2024 - FEBRUARY 2025 • MATSUMOTO, NAGANO, JAPAN
 
 # Experience
-**SGX3 Coding Institute**
+**SGX3 Coding Institute Trainer**
 JUNE 2024 • REMOTE
-- A [workshop](https://sciencegateways.org/coding_institute) that covers the core skills needed for the design and maintenance of science gateways
+- A trainer/mentor for a [workshop](https://sciencegateways.org/coding_institute) that covers the core skills needed for the design and maintenance of science gateways
 - Participated in the SGX3 HackHPC hackathon, the goal of which was to make a science gateway with Python and Django, on [team NLC^2](https://hackhpc.github.io/sgx3admi24/teams.html#:~:text=Team%20Introduction-,NLC2,-%F0%9F%8F%86%20Best%20Team) (a 4-person team) and won the Judges Award ([GitHub](https://github.com/ChristianJohnsonL/SGX3-Hackathon-Project-2024))
 - Hackathon poster project presented at Science Gateways 2024 Annual Conference
 
