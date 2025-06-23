@@ -46,8 +46,12 @@ APRIL 2023 - JUNE 2024 • ASHLAND, OREGON
 
 **Lab and Classroom Support Analyst** - <i style="color:green;font-weight:bold;">Southern Oregon University</i><br>
 APRIL 2023 - AUGUST 2024 • ASHLAND, OREGON
-- Resolve technical difficulties with campus technologies for professors and students
-- Install software and hardware and reimage machines in labs and classrooms throughout campus
+- Provide technical support with campus technologies to professors and students
+- Troubleshoot and resolve issues related to Windows, Linux, and Mac operating systems
+- Utilize ticketing systems to track and manage support requests
+- Create and maintain solution documentation for future reference
+- Install and update software/hardware and reimage machines in labs and classrooms throughout campus
+
 
 # Projects
 **Web App: Graph Creator**
@@ -90,5 +94,8 @@ APRIL 2023 - AUGUST 2024 • ASHLAND, OREGON
 - Cloud Computing (Google Cloud Platform, Microsoft Azure)
 - Mathematics (calculus, differential equations, discrete structures, linear algebra)
 - Technical Communication
+- Strong problem-solving skills
+- Customer service
+- Ability to work independently as well as part of a team
 - Elementary Japanese
 
