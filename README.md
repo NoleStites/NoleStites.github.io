@@ -8,8 +8,6 @@
 <img src="Nole_Holding_Apple.jpg" width="300px">
 
 # About Me
-I’m a graduate student pursuing a Master of Library and Information Science at [Louisiana State University](https://www.lsu.edu/) with a strong interest in digital humanities. With a background in computer science, I’m passionate about using technology to support access to cultural heritage, digital scholarship, and interdisciplinary research. I’m especially drawn to opportunities that combine library services, digital tools, and the humanities to enhance how information is preserved, presented, and explored.
-
 I graduated with a B.S. in Computer Science from [Southern Oregon University](https://sou.edu/) in March 2025.
 
 I have a passion for education and have created a web application called [Graph Creator](https://nolestites.com/GraphCreator) to help students with their education and faculty with their work.
@@ -19,9 +17,6 @@ I am research-focused, having always been curious about many things in life. I w
 I reside in [Houston, TX](https://en.wikipedia.org/wiki/Houston) with my two sweet dogs Kashyyyk and Weasley, but am looking to relocate. 
 
 # Education
-**Master of Library and Information Science** - <i style="color:green;font-weight:bold;">Louisiana State University</i><br>
-DATE: JULY 2025 - PRESENT • BATON ROUGE, LOUISIANA
-
 **Bachelor of Science in Computer Science** - <i style="color:green;font-weight:bold;">Southern Oregon University</i><br>
 GRADUATION DATE: MARCH 2025 • ASHLAND, OREGON • 3.9 GPA
 - Member of Computer Science Club
@@ -34,7 +29,7 @@ DATE: SEPTEMBER 2024 - FEBRUARY 2025 • MATSUMOTO, NAGANO, JAPAN
 
 # Experience
 **SGX3 Coding Institute Trainer**
-JUNE 2024 • REMOTE
+JUNE 2024/2025 • REMOTE
 - A trainer/mentor for a [workshop](https://sciencegateways.org/coding_institute) that covers the core skills needed for the design and maintenance of science gateways
 - Participated in the SGX3 HackHPC hackathon, the goal of which was to make a science gateway with Python and Django, on [team NLC^2](https://hackhpc.github.io/sgx3admi24/teams.html#:~:text=Team%20Introduction-,NLC2,-%F0%9F%8F%86%20Best%20Team) (a 4-person team) and won the Judges Award ([GitHub](https://github.com/ChristianJohnsonL/SGX3-Hackathon-Project-2024))
 - Hackathon poster project presented at Science Gateways 2024 Annual Conference
@@ -52,6 +47,10 @@ APRIL 2023 - AUGUST 2024 • ASHLAND, OREGON
 - Create and maintain solution documentation for future reference
 - Install and update software/hardware and reimage machines in labs and classrooms throughout campus
 
+# Research
+**Quantum Computing Introductory Lecture** - <i style="color:green;font-weight:bold;">STEM REx</i><br>
+- Partook in funded research to create an introductory lecture for quantum computing
+- Consolidated complex technical material into a slide deck highlighting key points of quantum computing, all of which is [hosted on GitHub](https://github.com/NoleStites/STEM-REx.git)
 
 # Projects
 **Web App: Graph Creator**
@@ -63,14 +62,19 @@ APRIL 2023 - AUGUST 2024 • ASHLAND, OREGON
 - React project [hosted on GitHub](https://github.com/NoleStites/Sudoku_in_React.git) that pipes the output from a Python wave collapse function into a React app
 - Technologies Used: React, Python, HTML, CSS, JavaScript, Git
 
-**Quantum Computing Introductory Lecture** - <i style="color:green;font-weight:bold;">STEM REx</i><br>
-- Partook in funded research to create an introductory lecture for quantum computing
-- Consolidated complex technical material into a slide deck highlighting key points of quantum computing, all of which is [hosted on GitHub](https://github.com/NoleStites/STEM-REx.git)
-
 **Flow Cytometry Analysis Automation** - <i style="color:green;font-weight:bold;">BD Biosciences</i><br>
 - Develop an automated cell-identification algorithm in Python and Java for use by bioinformatic researchers
 - Collaborating with a teammate, planned project and created documentation using agile development practices
 - Technologies Used: Python, Git, Machine Learning (ML), Agile Methodologies
+
+**Appointment Tracker**
+- Full-Stack Web Application | ASP.NET Core (C#), React, TypeScript
+- Developed a full-stack appointment scheduler using ASP.NET Core (C#) and React (TypeScript)
+- Built RESTful API endpoints for creating, retrieving, and deleting appointments
+- Designed a responsive frontend with dynamic forms and real-time data updates
+- Configured CORS to enable secure frontend-backend integration
+- View the GitHub repo [here](https://github.com/NoleStites/DoctorAppointmentTracker.git)
+
 
 **Sudoku Wave Function Collapse**
 - Python project [hosted on GitHub](https://github.com/NoleStites/Sudoku-Wave-Collapse-Function) that generates sudoku boards using wave function collapse
@@ -89,13 +93,12 @@ APRIL 2023 - AUGUST 2024 • ASHLAND, OREGON
 - Check out the simulation here: https://www.theforage.com/simulations/wells-fargo/software-engineering-nkq4
 
 # Skills
-- Databases (Data Modeling, ERD Design, MySQL, MongoDB, and RESTful APIs to connect to them)
-- Software Engineering (C++, HTML/CSS, JavaScript, Python, Java/JPA/Spring)
-- Cloud Computing (Google Cloud Platform, Microsoft Azure)
-- Mathematics (calculus, differential equations, discrete structures, linear algebra)
-- Technical Communication
-- Strong problem-solving skills
-- Customer service
-- Ability to work independently as well as part of a team
-- Elementary Japanese
+- **Programming & Web Development**: C#, C++, Python, Java, JavaScript, TypeScript, HTML/CSS, React, Spring (JPA), RESTful API design
+- **Databases**: SQL, MongoDB, data modeling, ERD design, API integration
+- **Operating Systems**: Windows, Linux (Ubuntu)
+- **Cloud Platforms**: Google Cloud Platform (GCP), Microsoft Azure
+- **Mathematics**: Calculus, linear algebra, discrete structures, differential equations
+- **Tools & Practices**: Git, VS Code, Agile workflows, software debugging, scripting/automation
+- **Languages**: Elementary Japanese
+- **Soft Skills**: Strong problem-solving abilities, technical communication, customer service, able to work independently and collaboratively
 
