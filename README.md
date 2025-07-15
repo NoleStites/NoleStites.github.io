@@ -68,7 +68,7 @@ APRIL 2023 - AUGUST 2024 • ASHLAND, OREGON
 - Technologies Used: Python, Git, Machine Learning (ML), Agile Methodologies
 
 **Appointment Tracker**
-- Full-Stack Web Application | ASP.NET Core (C#), React, TypeScript
+- Full-Stack Web Application using ASP.NET Core (C#), React, TypeScript
 - Developed a full-stack appointment scheduler using ASP.NET Core (C#) and React (TypeScript)
 - Built RESTful API endpoints for creating, retrieving, and deleting appointments
 - Designed a responsive frontend with dynamic forms and real-time data updates
